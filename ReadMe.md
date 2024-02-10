@@ -1,4 +1,4 @@
-# Network Scanner
+# Network-Scanner
 This is project I worked during the Christmas holidays in 2023.
 
 <H2> Description </H2>
